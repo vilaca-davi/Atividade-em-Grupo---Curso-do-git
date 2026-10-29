@@ -10,9 +10,9 @@ Atividade prática de colaboração com Git e GitHub.
 - A: Davi Silva Vilaça
 
 - B: Beatriz de Souza Dias
-
+(Não posso mudar de nome, você que lute)
 
 ## Repositório
 
 
-https://github.com/vilaca-davi/Atividade-em-Grupo---Curso-do-git
+Link do codigo: https://github.com/vilaca-davi/Atividade-em-Grupo---Curso-do-git
